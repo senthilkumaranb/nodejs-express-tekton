@@ -1,0 +1,10 @@
+{
+  "contextRoot": "",
+  "internalPort": "",
+  "healthCheck": "",
+  "internalDebugPort": "",
+  "isHttps": false,
+  "ignoredPaths": [
+    ""
+  ]
+}
